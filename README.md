@@ -12,7 +12,7 @@ This is a real business project, not a mockup or a frontend-only demo.
 
 The target repository is:
 
-https://github.com/kaleemdurrani1978-cell/Student-Burgers-Shawarma-
+https://github.com/kaleemdurrani514-collab/student-burgers-shawarma
 
 **This exact existing repository is the required source of truth. Do not create an unrelated replacement repository.**
 
